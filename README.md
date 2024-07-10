@@ -3,7 +3,7 @@
 
 ## 🚀 Key Features
 - **All Quotes**
-- **Fav**
+- **Fav** 
 - **Dark Mode**
 - **Copy Quotes**
 - **privacy**
