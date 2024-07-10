@@ -1,7 +1,7 @@
 # Quotes App
 ## Overview
 
-## 🚀 Key Features
+## 🚀 Key Features 
 - **All Quotes**
 - **Fav**
 - **Dark Mode**
